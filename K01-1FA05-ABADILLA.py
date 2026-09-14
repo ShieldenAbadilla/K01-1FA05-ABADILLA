@@ -1,10 +1,10 @@
 import math
 
 # Calculate the Euclidean Distance Formula between two 2D points.
-x-value1 = float(input("Enter x1: "))
-y-value1 = float(input("Enter y1: "))
-x-value2 = float(input("Enter x2: "))
-y-value2 = float(input("Enter y2: "))
+x1 = float(input("Enter x1: "))
+y1 = float(input("Enter y1: "))
+x2 = float(input("Enter x2: "))
+y2 = float(input("Enter y2: "))
 
 distance = math.sqrt(math.pow(x2 - x1, 2) + math.pow(y2 - y1, 2))
 
