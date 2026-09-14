@@ -22,5 +22,5 @@ This Python program calculates the Euclidean distance between two points on a 2D
 - Distance: 5.00
 
 Author
-**K01 - Shielden Alexis P. Abadilla**
+- **K01 - Shielden Alexis P. Abadilla**
 
